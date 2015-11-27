@@ -1,6 +1,6 @@
 import turtle
 m = input("What would you like to do: print draw")
-if m == print:
+if m == "print":
     a = input("What would you like to print?")
     print(a)
 elif m == "draw":
